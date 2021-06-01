@@ -1,0 +1,6 @@
+<launch>
+<include file="$(find projekt_miapr)/launch/map_medium.launch" />
+<node name="graph_search" pkg="projekt_miapr" type="rrt_star.py" output="screen" />
+<node name="points" pkg="projekt_miapr" type="points.py" output="screen" />
+<node name="rviz" pkg="rviz" type="rviz" />
+</launch>
