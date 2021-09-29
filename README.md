@@ -3,7 +3,7 @@ Implementacja algorytmu RRT do planowania ruchu pojazdu o kinematyce samochodowe
 
 Model samochodu:
 
-![](car_model.png)
+![](model.png)
 
 o dynamice
 
