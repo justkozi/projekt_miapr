@@ -28,3 +28,7 @@ $ python3 rrt.py
 
 W pliku `TestParameters/cases.py` można zdefiniować wygląd środowiska oraz oczekiwane pozycje początkową oraz końcową
 
+Grupa: 
+- Zuzanna Stolc
+- Paweł Woźniak
+- Łukasz Kozak
