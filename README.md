@@ -3,9 +3,7 @@ Implementacja algorytmu RRT do planowania ruchu pojazdu o kinematyce samochodowe
 
 Model samochodu:
 
-<p align="center">
-  <img src="https://github.com/jhan15/dubins_path_planning/blob/master/images/car_model.png?raw=true" width="300">
-</p>
+![](car_model.png)
 
 o dynamice
 
